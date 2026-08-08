@@ -2,6 +2,8 @@
 
 [English](./README.md) | [简体中文](./README_ZH.md)
 
+https://ethresear.ch/t/trustmesh-consensus-as-emergence-security-from-behavior/23651
+
 ## Introduction
 
 TrustMesh is a decentralized consensus mechanism whose key distinction lies in using *emergence* to replace traditional PoW/PoS, while removing the requirement for block-to-block referencing. Its security is tied to node behavior, and the specific rules are defined according to the purpose of the network, without requiring nodes to maintain a global view. In theory, such a structure can achieve extremely high scalability.  
