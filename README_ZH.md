@@ -2,6 +2,8 @@
 
 [English](./README.md) | [简体中文](./README_ZH.md)
 
+https://ethresear.ch/t/trustmesh-consensus-as-emergence-security-from-behavior/23651
+
 ## 简介
 
 TrustMesh 是一个去中心化共识机制，它最大的不同是使用涌现来代替传统的 PoW/PoS，且不再要求区块之间引用。它的安全性与节点行为绑定，具体规则根据网络目的制定，但不要求节点持有全局视图。理论上，这样的结构能够实现极高的扩展性。更多内容可参考白皮书：[TrustMesh Whitepaper v0.0.1](./docs/Whitepaper/v0.0.1/TrustMesh_ZH.md)
